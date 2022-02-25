@@ -2,10 +2,8 @@
 # The Fantastic Portfolio of Nolan Brady
 
 
-## UX Team Project
-### Wild-Life
+## UX Team Project: Wild-Life
 
-
-## UX Journal
+## UX Journals:
 
 [Journal 1: Hamilton Beach Breakfast Sandwich Maker](j01/)
