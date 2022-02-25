@@ -1,6 +1,7 @@
 # Hamilton Beach Breakfast Sandwich Maker
 ![Sandwich Maker](https://user-images.githubusercontent.com/52172832/155641285-58f2d31c-8cfc-49b7-b1a0-30956a7d4ded.png)
 <br>
+<br>
 Upon first looking at this machine in the thrift store I didn't even think of how to use it, all I thought was,
 "woah I love breakfast sandwiches this is gonna be great", little did I know the journey of learning this simple
 contraption I was about to go through. After unwrapping the clear tape that was keeping it from swinging open, this is what I
