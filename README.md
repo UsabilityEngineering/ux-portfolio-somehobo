@@ -3,8 +3,9 @@
 
 
 ## UX Team Project
+### Wild-Life
 
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Journal 1: Hamilton Beach Breakfast Sandwich Maker](j01/)
