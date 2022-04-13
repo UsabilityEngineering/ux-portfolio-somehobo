@@ -7,3 +7,6 @@
 ## UX Journals:
 
 [Journal 1: Hamilton Beach Breakfast Sandwich Maker](j01/)
+
+
+[Journal 1: Hamilton Beach Breakfast Sandwich Maker](j02/)
