@@ -9,4 +9,4 @@
 [Journal 1: Hamilton Beach Breakfast Sandwich Maker](j01/)
 
 
-[Journal 1: Hamilton Beach Breakfast Sandwich Maker](j02/)
+[Journal 2: Yamaha Natural Sound AV Reciever HTR-6230](j02/)
