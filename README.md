@@ -10,3 +10,6 @@
 
 
 [Journal 2: Yamaha Natural Sound AV Reciever HTR-6230](j02/)
+
+
+[Journal 3: Gevi Espresso Maker](j03/)
