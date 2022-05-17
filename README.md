@@ -5,6 +5,8 @@
 
 ## UX Team Project: Wild-Life
 
+[Wild-Life](https://usabilityengineering.github.io/Wild-Life/)
+
 ## UX Journals:
 
 [Journal 1: Hamilton Beach Breakfast Sandwich Maker](j01/)
